@@ -1,11 +1,14 @@
 @charset "UTF-8";
 
-// setting
+// 기본설정
 @import "setting/fonts";
 @import "setting/vars";
 @import "setting/reset";
 @import "setting/mixin";
 
+// 컴포넌트
 @import "section/intro";
 @import "section/Project";
 @import "section/info";
+@import "section/distinct";
+@import "section/skill";
