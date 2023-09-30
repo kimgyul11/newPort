@@ -1,7 +1,7 @@
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/all";
 import React, { useEffect, useRef } from "react";
-const text = ["텍스트1", "텍스트2", "텍스트3", "텍스트4"];
+const text = ["Creative", "Passion", "挑戦する", "노력하는"];
 
 const Intro = () => {
   const sectionRef = useRef(null);

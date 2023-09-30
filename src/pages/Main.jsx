@@ -4,6 +4,7 @@ import Project from "../components/Project";
 import Info from "../components/Info";
 import Distinct from "../components/Distinct";
 import Skill from "../components/Skill";
+import Contact from "../components/Contact";
 const Main = () => {
   return (
     <>
@@ -12,6 +13,7 @@ const Main = () => {
       <Distinct />
       <Skill />
       <Project />
+      <Contact />
     </>
   );
 };
